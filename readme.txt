@@ -9,4 +9,5 @@ Git Essentials
 5) git diff (Provides the last modified changes if the files are not staged)
 6) git diff --staged (Provides the last modified changes for the staged files).
 7) git branch -d branch-name (deletes the local branch).
+8) git commit ammend -m "New updated commit "(Add the changes to your last commit. Also updates the commit message to the last provided message)
 
